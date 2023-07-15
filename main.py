@@ -1,6 +1,7 @@
-# import random
-# for i in range(1, 10):
-#     print(random.randint(0, 20))
+import random
+for i in range(1, 10):
+    print(random.randint(0, 20))
+
 
 # we are doing with function
 def addition(a, b):
