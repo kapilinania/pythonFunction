@@ -1,4 +1,4 @@
-# for this example i am learn git and &github version control
+# for this example i am learn git and &github version control.
 import random
 
 for i in range(1, 10):
