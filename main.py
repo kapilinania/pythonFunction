@@ -22,5 +22,5 @@ print(multi(5, 10))
 print(addition(multi(5, 10), 2))
 
 print("hello world")
-print("hy kapl world")
+print("hy user  world")
 print("check world")
