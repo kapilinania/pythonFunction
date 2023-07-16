@@ -23,3 +23,4 @@ c = '''kapil inaniya three
 and he is from jodhpur       .  wow       it is awesome
 '''
 print(a, b, c)
+

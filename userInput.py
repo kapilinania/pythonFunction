@@ -6,3 +6,4 @@ print(type(name))
 print(int(name) + 20)
 
 # variable name case sensitive
+
