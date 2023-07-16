@@ -1,4 +1,7 @@
 a = {1, 2, 3, 4, 5, 10, 20, 1, 1, 1, 1, 1}
+# d={}
+# print(type(d))
+# print(type(a))
 b = {10, 20, 30}
 # a.clear()
 # print(a.pop())
